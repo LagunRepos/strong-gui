@@ -1,0 +1,3 @@
+# STRONK GUI
+## [Game](https://roblox.com/games/6875469709)
+## [Script](https://raw.githubusercontent.com/LagunRepos/strong-gui/main/source)
