@@ -23,3 +23,5 @@
 _G.settings = {
 	key = '' --key here
 }
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/LagunRepos/strong-gui/main/source%20(ofucated)',true))()
