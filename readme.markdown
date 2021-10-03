@@ -1,5 +1,5 @@
 # STRONK GUI
-## [Script](https://raw.githubusercontent.com/LagunRepos/strong-gui/main/source)
+## [Script](https://raw.githubusercontent.com/LagunRepos/strong-gui/main/script)
 [Game](https://roblox.com/games/6875469709)
 
 
